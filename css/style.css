@@ -6,7 +6,7 @@ body {
 
 @media (max-width: 640px) {
   .section-welcome {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/football_767.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/football_767.jpg");
     background-size: cover;
   }
 
@@ -307,7 +307,7 @@ body {
   }
 
   .image__beactive {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/be-active_640.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/be-active_640.jpg");
     background-size: cover;
     height: 110vw;
   }
@@ -339,7 +339,7 @@ body {
   }
 
   .image__findcontact {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/find-contact_640.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/find-contact_640.jpg");
     background-size: cover;
     height: 110vw;
   }
@@ -371,7 +371,7 @@ body {
   }
 
   .image__workit {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/work-it_640.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/work-it_640.jpg");
     background-size: cover;
     height: 110vw;
   }
@@ -398,7 +398,7 @@ body {
   }
 
   .section-download {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/game_767.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/game_767.jpg");
     background-size: cover;
     background-position: right;
   }
@@ -464,7 +464,7 @@ body {
 
 @media (min-width: 641px) and (max-width: 960px)  {
   .section-welcome {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/football_1280.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/football_1280.jpg");
     background-size: cover;
     background-position: center;
   }
@@ -767,7 +767,7 @@ body {
   }
 
   .image__beactive {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/be-active_960.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/be-active_960.jpg");
     background-size: cover;
     height: 75vw;
   }
@@ -799,7 +799,7 @@ body {
   }
 
   .image__findcontact {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/find-contact_960.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/find-contact_960.jpg");
     background-size: cover;
     height: 75vw;
   }
@@ -831,7 +831,7 @@ body {
   }
 
   .image__workit {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/work-it_960.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/work-it_960.jpg");
     background-size: cover;
     height: 75vw;
   }
@@ -858,7 +858,7 @@ body {
   }
 
   .section-download {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/game_767.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/game_767.jpg");
     background-size: cover;
     background-position: right;
   }
@@ -928,7 +928,7 @@ body {
   
  @media (min-width: 961px) {
   .section-welcome {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/football_1920.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/football_1920.jpg");
     background-size: cover;
     background-position: center;
   }
@@ -1207,7 +1207,7 @@ body {
   }
 
   .image__beactive {
-     background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/be-active_1024.jpg");
+     background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/be-active_1024.jpg");
     background-size: cover;
     background-position: center;
     width: 50%;
@@ -1265,7 +1265,7 @@ body {
    }
 
   .image__findcontact {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/find-contact_1024.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/find-contact_1024.jpg");
    background-size: cover;
     background-position: center;
     width: 50%;
@@ -1298,7 +1298,7 @@ body {
   }
 
   .image__workit {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/work-it_960.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/work-it_960.jpg");
        background-size: cover;
     background-position: center;
     width: 50%;
@@ -1327,7 +1327,7 @@ body {
   }
 
   .section-download {
-    background-image: url("https://raw.githubusercontent.com/Natalia-Ryshkova/diplomaMQ/master/img/game_1280.jpg");
+    background-image: url("https://raw.githubusercontent.com/NataliaRyshkova/diplomaMQ/master/img/game_1280.jpg");
     background-size: cover;
     background-position: right;
   }
